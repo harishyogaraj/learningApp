@@ -1,1 +1,13 @@
 # learningApp
+![deleteUserById](https://user-images.githubusercontent.com/62615460/152982400-85827745-a7de-4522-abf0-0f3b7df7b705.png)
+![foodTable](https://user-images.githubusercontent.com/62615460/152982408-2a69e15b-d328-4ae7-bbf5-5db5dc2c4752.png)
+![getAllFood](https://user-images.githubusercontent.com/62615460/152982415-763ddc40-a288-4cca-b2c3-a6657b0a60b2.png)
+![getAllRegister](https://user-images.githubusercontent.com/62615460/152982416-76fcf5f6-729c-4c78-8a40-60e5d217fdb8.png)
+![getFoodById](https://user-images.githubusercontent.com/62615460/152982422-0cf6d4fe-8fdf-4f48-b0c9-fa31fa9f92d1.png)
+![getUserById](https://user-images.githubusercontent.com/62615460/152982428-a01bb23b-01f9-4335-9594-0024bf56455a.png)
+![registerTable](https://user-images.githubusercontent.com/62615460/152982434-4b9d9939-27e3-4220-b33b-720d0614abff.png)
+![update](https://user-images.githubusercontent.com/62615460/152982437-28699f49-27c0-4399-9ed9-82d6f453bc67.png)
+![addFood](https://user-images.githubusercontent.com/62615460/152982440-b8fd59c6-5cde-46fe-a6c3-755f521948b3.png)
+![addRegister](https://user-images.githubusercontent.com/62615460/152982449-9f78b24d-9edb-446f-b7c9-7f5518036230.png)
+![authentication](https://user-images.githubusercontent.com/62615460/152982451-dc6b420c-96ec-433c-a058-9eb7ee1c2d7d.png)
+![deleteFoodById](https://user-images.githubusercontent.com/62615460/152982453-7b98babb-81ec-44e5-a1bb-23459f44cc7e.png)
